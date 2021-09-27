@@ -1,0 +1,11 @@
+.profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.cart {
+  background-color: rgb(253, 198, 216);
+}

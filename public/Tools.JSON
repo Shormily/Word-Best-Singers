@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Abel Makkonen Tesfaye",
+    "Birthday": "16 Feburary 1990",
+    "First_Song": "According to Billboard",
+    "Height": "1.73 m",
+    "Net_Worth": 100,
+    "Age": "31Years",
+    "img": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/NUP_194226_0006-copy.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Justin Drew Bieber",
+    "Birthday": "1 March 1994",
+    "First_Song": "One Time",
+    "Height": "1.75 m",
+    "Net_Worth": 285,
+    "Age": "27Years",
+    "img": "https://www.biography.com/.image/t_share/MTM2OTI2NTY2Mjg5NTE2MTI5/justin_bieber_2015_photo_courtesy_dfree_shutterstock_348418241_croppedjpg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ariana Grande-Butera",
+    "Birthday": "26 June 1993",
+    "First_Song": "Put Your HEARTS Up",
+    "Height": "5'3",
+    "Net_Worth": 180,
+    "Age": "28Years",
+    "img": "https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=90&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2019/07/ariana-grande-givenchy-promo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Taylor Alison Swift",
+    "Birthday": "13 December 1989",
+    "First_Song": "Tim McGraw",
+    "Height": "1.8 m",
+    "Net_Worth": 180,
+    "Age": "31Years",
+    "img": "https://media.glamour.com/photos/6144a1d8b0984cdc75572d0a/master/w_2560%2Cc_limit/1170383972"
+  },
+  {
+    "id": 5,
+    "name": "Benito Antonio Martinez Ocasio",
+    "Birthday": "10 March 1994",
+    "First_Song": "Diles",
+    "Height": "1.8 m",
+    "Net_Worth": 19,
+    "Age": "27Years",
+    "img": "https://assets.teenvogue.com/photos/5fa2dfded8712350d738b554/3:2/w_855,h_570,c_limit/badbunnysocial.JPG"
+  },
+  {
+    "id": 6,
+    "name": "Edward Christopher Sheeran",
+    "Birthday": "17 Frburary 1991",
+    "First_Song": "The A team",
+    "Height": "1.73 m",
+    "Net_Worth": 215,
+    "Age": "30Years",
+    "img": "https://i.pinimg.com/474x/ac/99/67/ac9967dc9aa51d9e12da0e756300baf0.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dua Lipa",
+    "Birthday": "22 August 1995",
+    "First_Song": "New Love ",
+    "Height": "1.73 m",
+    "Net_Worth": 26,
+    "Age": "26Years",
+    "img": "https://www.mordeo.org/files/uploads/2017/12/Dua-Lipa-HD-Mobile-Wallpaper-950x1520.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Aubrey Drake Granham",
+    "Birthday": "24 October 1986",
+    "First_Song": "Over",
+    "Height": "1.82 m",
+    "Net_Worth": 185,
+    "Age": "34Years",
+    "img": "https://cdn.vox-cdn.com/thumbor/dOiDd3ZeYTXi3V4pJWKVZ-0fIgc=/0x0:3400x2271/1200x800/filters:focal(1530x781:2074x1325)/cdn.vox-cdn.com/uploads/chorus_image/image/69826880/Drake.0.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Billie Eilish Pirate Baird Connell",
+    "Birthday": "18 December 2001",
+    "First_Song": "Ocean Eyes",
+    "Height": "1.61 m",
+    "Net_Worth": 19,
+    "Age": "19 Years",
+    "img": "https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/794239044340531200/origin_1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Arijit Singh",
+    "Birthday": "April 25, 1987",
+    "First_Song": "Phir Mohabbat",
+    "Height": "5 fit 6 inch",
+    "Net_Worth": 19,
+    "Age": "34 Years",
+    "img": "https://pbs.twimg.com/profile_images/1291384747227099136/jMuAw4IQ_400x400.jpg"
+  },
+  {
+    "id": 11,
+    "name": "A.R. Rahman",
+    "Birthday": "6 January, 1967",
+    "First_Song": "Chitti Dance Showcase",
+    "Height": "1.65 m",
+    "Net_Worth": 280,
+    "Age": "19 Years",
+    "img": "https://www.filmcompanion.in/wp-content/uploads/2020/02/Film_Companion_A_R_Rahman_lead_1-1280x720.jpg"
+  },
+  {
+    "id": 12,
+    "name": "jubin nautiyal",
+    "Birthday": "14 June 1989",
+    "First_Song": "EK Mulaqat",
+    "Height": "6 fit 3 inch",
+    "Net_Worth": 6,
+    "Age": "32 Years",
+    "img": "https://www.iwmbuzz.com/wp-content/uploads/2021/08/long-vs-short-which-hairstyle-looks-good-on-jubin-nautiyal-vote-now.jpg"
+  },
+  {
+    "id": 13,
+    "name": " Monali Thakur",
+    "Birthday": "3 November 1985",
+    "First_Song": "Zara Zara",
+    "Height": "5 fit 1 inch",
+    "Net_Worth": 3,
+    "Age": "34 Years",
+    "img": "https://images.indianexpress.com/2016/05/monalithakur-759.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Javed Hussain",
+    "Birthday": "5 July 1982 ",
+    "First_Song": "Tum tak",
+    "Height": "5 fit 5 inch",
+    "Net_Worth": 2,
+    "Age": "35 Years",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Javed_Ali_graces_musical_concert_%E2%80%98Rehmatein-3%E2%80%99.jpg"
+  }
+]
